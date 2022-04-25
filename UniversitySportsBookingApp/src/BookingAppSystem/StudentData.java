@@ -1,5 +1,8 @@
 package BookingAppSystem;
 
+
+//student class definition with student name, student id, and student status
+
 public class StudentData {
 	
 	private String student_name;
