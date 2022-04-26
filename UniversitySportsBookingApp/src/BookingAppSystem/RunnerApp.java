@@ -9,7 +9,7 @@ public class RunnerApp {
 		System.out.println("3 : Please Select this option for participating in lessons");
 		System.out.println("4 : Would you like to produce monthly Report for lesson?");
 		System.out.println("5 : Would you like to produce Monthly income Report?");
-		System.out.println("6 : Use this option to Exit");
+		
 
 	}
 
